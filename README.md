@@ -16,5 +16,5 @@
 
 
 ### Name :
-- Deepesh Kumar Singhal
+- Deepesh Singhal
 
